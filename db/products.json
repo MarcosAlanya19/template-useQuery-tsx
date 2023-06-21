@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "laptop gaming2",
+      "description": "laptop gaming2",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "laptop gaming3",
+      "description": "laptop gaming3",
+      "price": 100,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "laptop gaming4",
+      "description": "laptop gaming4",
+      "price": 100,
+      "inStock": false
+    }
+  ]
+}
